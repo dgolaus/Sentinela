@@ -1,4 +1,4 @@
-# 🛡️ sentinela
+# 🛡️ Sentinela
 
 > reconheça um golpe **antes de clicar.**
 
@@ -48,7 +48,7 @@ acesse `http://localhost:8000`.
 ## 📁 estrutura
 
 ```
-sentinela/
+Sentinela/
 ├── index.html   # estrutura e conteúdo
 ├── style.css    # tema, layout e animações
 └── README.md
