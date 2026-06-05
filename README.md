@@ -1,51 +1,51 @@
-# 🛡️ Sentinela
+# 🛡️ sentinela
 
-> Reconheça um golpe **antes de clicar.**
+> reconheça um golpe **antes de clicar.**
 
-Site educativo que ensina a analisar mensagens suspeitas e identificar os
-principais sinais de golpe digital. Projeto desenvolvido para o desafio de
-**Segurança Digital da Alura**.
+site educativo que ensina a analisar mensagens suspeitas e identificar os
+principais sinais de golpe digital. projeto desenvolvido para o desafio de
+**segurança digital da alura**.
 
-🔗 **Acesse:** https://dgolaus.github.io/sentinela/
+🔗 **acesse:** https://dgolaus.github.io/Sentinela/
 
 ---
 
-## ✨ O que o site traz
+## ✨ o que o site traz
 
-- **Estudo de caso** — uma mensagem de golpe real dissecada em formato de chat.
+- **estudo de caso** — uma mensagem de golpe real dissecada em formato de chat.
 - **6 sinais de alerta** — os padrões mais comuns em mensagens fraudulentas.
-- **Mito x Verdade** — desmontando crenças que os golpistas adoram.
-- **Como se proteger** — um checklist prático para o dia a dia.
+- **mito x verdade** — desmontando crenças que os golpistas adoram.
+- **como se proteger** — um checklist prático para o dia a dia.
 
-## 🚨 Sinais de alerta abordados
+## 🚨 sinais de alerta abordados
 
-1. **Urgência artificial** — pressão para agir sem pensar.
-2. **Link encurtado suspeito** — esconde o destino real.
-3. **Promessa boa demais** — prêmios que você nunca pediu.
-4. **Remetente desconhecido** — número/e-mail estranho e erros de português.
-5. **Pedido de dados pessoais** — senha, código ou CPF por mensagem.
-6. **Site que imita o oficial** — domínios com letras trocadas.
+1. **urgência artificial** — pressão para agir sem pensar.
+2. **link encurtado suspeito** — esconde o destino real.
+3. **promessa boa demais** — prêmios que você nunca pediu.
+4. **remetente desconhecido** — número/e-mail estranho e erros de português.
+5. **pedido de dados pessoais** — senha, código ou cpf por mensagem.
+6. **site que imita o oficial** — domínios com letras trocadas.
 
-## 🛠️ Tecnologias
+## 🛠️ tecnologias
 
-- HTML5 semântico
-- CSS3 (variáveis, grid, animações)
-- Tipografia [Inter](https://fonts.google.com/specimen/Inter)
+- html5 semântico
+- css3 (variáveis, grid, animações)
+- tipografia [inter](https://fonts.google.com/specimen/Inter)
 
-Sem frameworks, sem build — é só abrir e usar.
+sem frameworks, sem build — é só abrir e usar.
 
-## 💻 Como rodar localmente
+## 💻 como rodar localmente
 
 ```bash
-git clone https://github.com/dgolaus/sentinela.git
-cd sentinela
+git clone https://github.com/dgolaus/Sentinela.git
+cd Sentinela
 # abra o index.html no navegador, ou suba um servidor simples:
 python3 -m http.server 8000
 ```
 
-Acesse `http://localhost:8000`.
+acesse `http://localhost:8000`.
 
-## 📁 Estrutura
+## 📁 estrutura
 
 ```
 sentinela/
@@ -56,4 +56,4 @@ sentinela/
 
 ---
 
-Feito com 💀 para o desafio da Alura.
+feito com 💀 para o desafio da alura.
